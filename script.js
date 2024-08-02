@@ -1,3 +1,4 @@
-document.addEventListener('DOMContentLoaded', (event) => {
-    alert('Welcome to My Website!');
-  });  
+// script.js
+document.addEventListener("DOMContentLoaded", () => {
+  // Add JavaScript interactivity here
+});
